@@ -1,5 +1,6 @@
 # free-rent
 
+Remotely disable Google NEST camera
 
 ## TODO
 
